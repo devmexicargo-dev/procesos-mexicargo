@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Archivos Excel
+*.xlsx
+*.xls
+
+# Archivos temporales
+*.log
+.env
